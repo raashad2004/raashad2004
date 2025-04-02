@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/raashad2004](https://github.com/raashad2004)
 
-- 💬 Ask me about **Passionate CSE student exploring the realms of programming, DevOps, and AI. Building projects, learning daily, and striving for innovation!**
+- 💬 Ask me about **Programming, DevOps, and AI. Building projects, learning daily, and striving for innovation!**
 
 - 📫 How to reach me **raashad.md@gmail.com**
 
